@@ -13,4 +13,4 @@ To get this project up and running on your local machine, do this:
 2. **Clone the Repository**
    
    ```bash
-   git clone https://github.com/Ahrazul/CrptoStride.git
+   git clone https://github.com/kzyeaz/CrptoStride.git
